@@ -1,5 +1,2 @@
-flasgger
-
-# renew
 Werkzeug==0.16.0
 flask-restplus==0.13.0
