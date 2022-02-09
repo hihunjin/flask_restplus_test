@@ -16,3 +16,7 @@ python nurilab.py
     ```
     0.0.0.0:5000
     ```
+
+## How it looks
+
+![wallpaper](wallpaper.png)
